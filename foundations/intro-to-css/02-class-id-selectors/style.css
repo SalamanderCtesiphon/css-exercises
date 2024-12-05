@@ -1,0 +1,19 @@
+p {
+  background-color: lightpink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second-element {
+  color: blue;
+  font-size: 36px;
+}
+
+.third-element {
+  font-size: 24px;
+}
+
+#fourth-element {
+  background-color: lightgreen;
+  font-weight: bold;
+  font-size: 24px;
+}
