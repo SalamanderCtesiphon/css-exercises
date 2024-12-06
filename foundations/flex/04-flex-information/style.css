@@ -10,6 +10,26 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+}
+
+.hero {
+  display: flex;
+  padding: 20px;
+  margin: 10px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+img {
+  margin-bottom: 10px;
 }
 
 /* do not edit this footer */
